@@ -3,5 +3,5 @@
 </p>
 
 <h2 align="center">
-dot
+Thinking...
 </h2>
